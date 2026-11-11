@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-  site-url: "https://coenwil.github.io"
+  site-url: "https://coenwil.github.io/portfolio"
   site-path: "/portfolio/"
 
 format:
