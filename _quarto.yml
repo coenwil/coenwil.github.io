@@ -3,12 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "portfolio"
+  title: "My portfolio"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+  site-url: "https://coenwil.github.io"
+  site-path: "/portfolio/"
 
 format:
   html:
